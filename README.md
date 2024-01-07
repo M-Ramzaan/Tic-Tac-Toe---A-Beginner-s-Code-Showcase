@@ -1,4 +1,4 @@
-# Tic-Tac-Toe---A-Beginner-s-Code-Showcase
+# Tic-Tac-Toe-A-Beginners-Code-Showcase
 Dive into the world of coding with this simple yet engaging Tic Tac Toe game! As a fellow student passionate about learning to code, I present to you this project as a testament to my journey.
 Dive into the world of coding with this simple yet engaging Tic Tac Toe game! As a fellow student passionate about learning to code, I present to you this project as a testament to my journey. Explore the source code to understand the basics of HTML, CSS, and JavaScript while experiencing the joy of creating a classic game. Join me in inspiring others to start their coding adventure – one move at a time! 🌐✨
 
