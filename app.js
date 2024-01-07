@@ -40,20 +40,6 @@ boxes.forEach((box) => {
   });
 });
 
-// const checkWinner = () => {
-//   for (let pattern of winPatterns) {
-//     //console.log(pattern); // Print the arrays values for us.
-//     console.log(pattern[0], pattern[1], pattern[2]); // Print the arrays positions for us.
-//     //console.log(boxes[pattern[0]], boxes[pattern[1]], boxes[pattern[2]]); // Acces the boxes via this.
-//     //console.log(boxes[pattern[0]], boxes[pattern[1]], boxes[pattern[2]]); // Acces the boxes via this.
-//     console.log(
-//       boxes[pattern[0]].innerText,
-//       boxes[pattern[1]].innerText,
-//       boxes[pattern[2]].innerText
-//     ); // Acces inner text positions via this and see where the value is stored.
-//   }
-// };
-
 const disableBoxes = () => {
   for (let box of boxes) {
     box.disabled = true;
